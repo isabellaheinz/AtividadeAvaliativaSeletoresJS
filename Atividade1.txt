@@ -5,4 +5,3 @@ Reação a Eventos: Responder a cliques do mouse, teclas pressionadas, movimento
 Validação de Formulários: Avisar o usuário que o e-mail está errado antes mesmo de ele enviar os dados.
 Comunicação com APIs: Buscar informações externas (como a previsão do tempo) sem precisar recarregar a página inteira.
 Animações e Efeitos Visuais: Criar animações complexas que vão além do que o CSS pode fazer sozinho.
-
