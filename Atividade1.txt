@@ -1,1 +1,8 @@
+O principal objetivo de se usar JavaScript no frontend é adicionar interatividade, dinamismo e comportamento às páginas web, transformando conteúdos estáticos em aplicações vivas.
+Sem JavaScript, um site é apenas um documento estático. Com ele, você pode criar a interatividade. Algumas das funções mais comuns do JS no front-end são:
+Manipulação do DOM: Alterar o conteúdo ou o estilo de um elemento HTML após a página já ter carregado.
+Reação a Eventos: Responder a cliques do mouse, teclas pressionadas, movimentos de scroll, etc.
+Validação de Formulários: Avisar o usuário que o e-mail está errado antes mesmo de ele enviar os dados.
+Comunicação com APIs: Buscar informações externas (como a previsão do tempo) sem precisar recarregar a página inteira.
+Animações e Efeitos Visuais: Criar animações complexas que vão além do que o CSS pode fazer sozinho.
 
